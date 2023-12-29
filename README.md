@@ -1,1 +1,1 @@
-# Python-OOP-s
+# Python Object-oriented Programming
